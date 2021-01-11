@@ -20,26 +20,26 @@
 ## HashSet, LinkedHashSet & TreeSet
 
 - add() 100000 elements:
-    1 linkedHashSet
-	2 hashSet
-	3 treeSet
+    1. linkedHashSet
+	2. hashSet
+	3. treeSet
 	
 - remove() 1 element in 100000 elements:
 	#### Results between positions are equal
-	1 linkedHashSet
-	2 hashSet
-	3 treeSet
+	1. linkedHashSet
+	2. hashSet
+	3. treeSet
 	
 	
 ## HashMap, LinkedHashMap & TreeMap  
 
 - add() 10000 elements:
-    1 hashMap
-	2 linkedHashMap
-	3 treeMap
+    1. hashMap
+	2. linkedHashMap
+	3. treeMap
   
 - remove() 1 element in 100000 elements:
 	#### Results between positions are equal
-	1 linkedHashMap
-	2 hashMap
-	3 treeMap
+	1. linkedHashMap
+	2. hashMap
+	3. treeMap
