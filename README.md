@@ -43,3 +43,6 @@
 	1. linkedHashMap
 	2. hashMap
 	3. treeMap
+	
+	
+## Summary: The choice of collection depends on the tasks and the amount of data.
